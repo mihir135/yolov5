@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: /media/dev33/data/Code/Client/self/elephant_dataset/train_elephant.txt
+val: /media/dev33/data/Code/Client/self/elephant_dataset/val_elephant.txt
+test: /media/dev33/data/Code/Client/self/elephant_dataset/test_elephant.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['Elephant']
