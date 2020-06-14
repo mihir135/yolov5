@@ -7,7 +7,7 @@
 
 ## Output
 <p align="center">
-  <img width="500" height="500" src="https://github.com/mihir135/yolov5/blob/master/output_elephant_img/output_.gif">
+  <img width="700" height="500" src="https://github.com/mihir135/yolov5/blob/master/output_elephant_img/output_.gif">
 </p>
 
 ## Licence
