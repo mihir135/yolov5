@@ -2,24 +2,12 @@
 
 ## Model Training Matrix
 <p align="center">
-  <img width="400" height="400" src="https://github.com/mihir135/yolov5/blob/master/weights_elephant/results.png">
+  <img width="700" height="400" src="https://github.com/mihir135/yolov5/blob/master/weights_elephant/results.png">
 </p>
 
 ## Output
 <p align="center">
-  <img width="400" height="400" src="https://github.com/mihir135/yolov5/blob/master/output_elephant_img/0a11b471d2785a76.jpg">
-</p>
-<p align="center">
-  <img width="400" height="400" src="https://github.com/mihir135/yolov5/blob/master/output_elephant_img/0a16b5b8dc4a94f4.jpg">
-</p>
-<p align="center">
-  <img width="400" height="400" src="https://github.com/mihir135/yolov5/blob/master/output_elephant_img/1133cbcf7bb47f17.jpg">
-</p>
-<p align="center">
-  <img width="400" height="400" src="https://github.com/mihir135/yolov5/blob/master/output_elephant_img/3247c6920a402476.jpg">
-</p>
-<p align="center">
-  <img width="400" height="400" src="https://github.com/mihir135/yolov5/blob/master/output_elephant_img/b2f6dade310a08ca.jpg">
+  <img width="500" height="500" src="https://github.com/mihir135/yolov5/blob/master/output_elephant_img/output_.gif">
 </p>
 
 ## Licence
