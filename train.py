@@ -1,4 +1,5 @@
 import argparse
+import os
 
 import torch.distributed as dist
 import torch.nn.functional as F
@@ -361,6 +362,11 @@ def train(hyp):
 
 
 if __name__ == '__main__':
+    try:
+        os.makedirs(wdir)    
+    except FileExistsError:
+        pass
+    
     parser = argparse.ArgumentParser()
     parser.add_argument('--epochs', type=int, default=300)
     parser.add_argument('--batch-size', type=int, default=16)
