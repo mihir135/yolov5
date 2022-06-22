@@ -1,5 +1,5 @@
 # pip install -U -r requirements.txt
-numpy==1.17
+numpy==1.22.0
 scipy==1.4.1
 cudatoolkit==10.2.89
 opencv-python
